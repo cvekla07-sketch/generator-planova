@@ -1,5 +1,5 @@
 {
-  "verzija": "4.3.5",
+  "verzija": "4.3.6",
   "link": "https://github.com/cvekla07-sketch/generator-planova/releases/latest/download/GeneratorNastavnihPlanova_Setup.exe",
-  "napomena": "Sedmični plan prilagođen svim gradovima; automatsko ažuriranje šablona."
+  "napomena": "Podrška za kombinovana odjeljenja u sedmičnom planu."
 }
