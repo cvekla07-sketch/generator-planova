@@ -1,5 +1,5 @@
 {
-  "verzija": "4.3.5",
+  "verzija": "4.4.2",
   "link": "https://github.com/cvekla07-sketch/generator-planova/releases/latest/download/GeneratorNastavnihPlanova_Setup.exe",
-  "napomena": "Kombinovana odjeljenja, ČOZ, I razred, godišnji plan 16-A-1, podaci škole, novo uputstvo. Program se zatvori, instalira se nova verzija, otvorite je prečicom."
+  "napomena": "Ispravka prve sedmice školske godine i smjena poslije zimskog raspusta. Ako ste već generisali planove za 2026/27, ponovo generišite mjesečne pa sedmične."
 }
