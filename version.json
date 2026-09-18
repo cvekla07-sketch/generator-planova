@@ -1,5 +1,5 @@
 {
-  "verzija": "4.4.2",
+  "verzija": "4.4.3",
   "link": "https://github.com/cvekla07-sketch/generator-planova/releases/latest/download/GeneratorNastavnihPlanova_Setup.exe",
-  "napomena": "Ispravka prve sedmice školske godine i smjena poslije zimskog raspusta. Ako ste već generisali planove za 2026/27, ponovo generišite mjesečne pa sedmične."
+  "napomena": "Dobro došli u Generator nastavnih planova!\n\n• Unesite raspored časova, praznike i smjene — program sam pravi mjesečne i sedmične planove za cijelu školsku godinu, na zvaničnim obrascima.\n• STANDARD: gotov godišnji program Islamske vjeronauke sa ciljevima i očekivanim rezultatima.\n• CUSTOM: uvezite svoj godišnji program iz Worda — radi za sve predmete, kombinovana odjeljenja i ČOZ.\n• Program se sam ažurira i o svakoj novoj mogućnosti obavještava ovom porukom.\n\nPomoć i uputstvo: dugme „Pomoć“ na početnom ekranu."
 }
