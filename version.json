@@ -1,5 +1,5 @@
 {
-  "verzija": "4.4.3",
+  "verzija": "4.5.0",
   "link": "https://github.com/cvekla07-sketch/generator-planova/releases/latest/download/GeneratorNastavnihPlanova_Setup.exe",
-  "napomena": "Dobro došli u Generator nastavnih planova!\n\n• Unesite raspored časova, praznike i smjene — program sam pravi mjesečne i sedmične planove za cijelu školsku godinu, na zvaničnim obrascima.\n• STANDARD: gotov godišnji program Islamske vjeronauke sa ciljevima i očekivanim rezultatima.\n• CUSTOM: uvezite svoj godišnji program iz Worda — radi za sve predmete, kombinovana odjeljenja i ČOZ.\n• Program se sam ažurira i o svakoj novoj mogućnosti obavještava ovom porukom.\n\nPomoć i uputstvo: dugme „Pomoć“ na početnom ekranu."
+  "napomena": "Šta je novo u verziji 4.5.0\n\n• Ciljevi i očekivani rezultati više se ne pišu ručno: za vjeronauku IV–IX program ih pri generisanju sam upiše iz paketa, zajedno sa zvaničnom nastavnom temom iz NPP-a (kolona „Nastavna tema“ u mjesečnom planu).\n• Kako do toga: Pripreme i testovi → preuzmi pakete → Uparivanje s planom (program upari sam, ti provjeriš) → dugme „Ciljevi i ishodi iz paketa“ → generiši mjesečne.\n• Uredi lekcije: sivim tekstom vidiš šta će ući iz paketa; tvoj tekst uvijek ima prednost.\n• Program upozori ako je tekst predug za ćeliju obrasca.\n• Novi početni ekran i Pomoć: problem prijaviš direktno iz programa, a odgovor ti stigne u program.\n• Nova uputstva (STANDARD i CUSTOM) — dugme „Pomoć“.\n\nVaši podaci (raspored, lekcije, praznici) ostaju netaknuti."
 }
